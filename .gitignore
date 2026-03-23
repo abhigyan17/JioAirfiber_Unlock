@@ -1,0 +1,11 @@
+# Ignore specific backup and encrypted files
+backup-*_enc.tar.gz
+encrypted_backup_mod.tar.gz
+backup_mod.tar.gz
+dec_backup_og.tar.gz
+
+# Ignore extracted backup directories
+extracted_backup/
+
+# Ignore obsidian files 
+.obsidian
