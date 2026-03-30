@@ -74,7 +74,8 @@ Proof of Concept:
 ![alt text](image-7.png)
 
 If you want to see an actual visual walkthrough of all this, I have explained the whole process in my video here:
-https://www.youtube.com/watch?v=uKLA3_eHgwY&lc=Ugyx3nYiZUzn4GdEmnx4AaABAg
+
+[![Watch the Tutorial](https://img.youtube.com/vi/uKLA3_eHgwY/maxresdefault.jpg)](https://www.youtube.com/watch?v=uKLA3_eHgwY&lc=Ugyx3nYiZUzn4GdEmnx4AaABAg)
 
 
 Resources & Connect with Me:
