@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  tr369-fetcher:
+    # Uses the pre-built image from Docker Hub
+    image: hacksmith/tr369-fetcher:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: tr369-fetcher-gui
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
+    # Allocate extra shared memory inside docker because Chromium requires it for large parsing
+    shm_size: '1gb'

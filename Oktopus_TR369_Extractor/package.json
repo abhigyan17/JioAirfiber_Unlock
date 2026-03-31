@@ -1,0 +1,28 @@
+{
+  "name": "tr369_json_fetcher",
+  "version": "1.0.0",
+  "description": "TR369_Json_Fetcher repository.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhigyan17/TR369_Json_Fetcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/abhigyan17/TR369_Json_Fetcher/issues"
+  },
+  "homepage": "https://github.com/abhigyan17/TR369_Json_Fetcher#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "open": "^11.0.0",
+    "playwright": "^1.58.2"
+  }
+}

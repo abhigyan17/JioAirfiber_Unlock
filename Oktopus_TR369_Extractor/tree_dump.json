@@ -1,0 +1,214 @@
+[
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-mialqa\"><div class=\"MuiListItemText-root MuiListItemText-dense css-s3uikj\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\"><b>Device.</b></span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"></div></li>",
+    "innerText": "Device."
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">RootDataModelVersion</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>2.12</div></div></li>",
+    "innerText": "RootDataModelVersion \\n 2.12"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_4G_BANDWIDTH</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>\"\"</div></div></li>",
+    "innerText": "X_AIRTEL_4G_BANDWIDTH \\n \"\""
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_4G_Band</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>\"\"</div></div></li>",
+    "innerText": "X_AIRTEL_4G_Band \\n \"\""
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_4G_CellID</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>\"\"</div></div></li>",
+    "innerText": "X_AIRTEL_4G_CellID \\n \"\""
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_4G_Lock_Band</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>B1,B3,B40<button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-161utmn\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" aria-hidden=\"true\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M16.862 4.487l1.687-1.688a1.875 1.875 0 112.652 2.652L6.832 19.82a4.5 4.5 0 01-1.897 1.13l-2.685.8.8-2.685a4.5 4.5 0 011.13-1.897L16.863 4.487zm0 0L19.5 7.125\"></path></svg></svg></button></div></div></li>",
+    "innerText": "X_AIRTEL_4G_Lock_Band \\n B1,B3,B40"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_4G_MCS</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>\"\"</div></div></li>",
+    "innerText": "X_AIRTEL_4G_MCS \\n \"\""
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_4G_PCID</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>\"\"</div></div></li>",
+    "innerText": "X_AIRTEL_4G_PCID \\n \"\""
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_4G_TAC</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>\"\"</div></div></li>",
+    "innerText": "X_AIRTEL_4G_TAC \\n \"\""
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_4G_eNodeB_ID</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>\"\"</div></div></li>",
+    "innerText": "X_AIRTEL_4G_eNodeB_ID \\n \"\""
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_5G_BANDWIDTH</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>100MHz</div></div></li>",
+    "innerText": "X_AIRTEL_5G_BANDWIDTH \\n 100MHz"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_5G_Band</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>n78</div></div></li>",
+    "innerText": "X_AIRTEL_5G_Band \\n n78"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_5G_CellID</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>1</div></div></li>",
+    "innerText": "X_AIRTEL_5G_CellID \\n 1"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_5G_Lock_Band</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>n78<button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-161utmn\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" aria-hidden=\"true\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M16.862 4.487l1.687-1.688a1.875 1.875 0 112.652 2.652L6.832 19.82a4.5 4.5 0 01-1.897 1.13l-2.685.8.8-2.685a4.5 4.5 0 011.13-1.897L16.863 4.487zm0 0L19.5 7.125\"></path></svg></svg></button></div></div></li>",
+    "innerText": "X_AIRTEL_5G_Lock_Band \\n n78"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_5G_MCS</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>0,17</div></div></li>",
+    "innerText": "X_AIRTEL_5G_MCS \\n 0,17"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_5G_NCI_ID</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>3246309377</div></div></li>",
+    "innerText": "X_AIRTEL_5G_NCI_ID \\n 3246309377"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_5G_PCID</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>487</div></div></li>",
+    "innerText": "X_AIRTEL_5G_PCID \\n 487"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_5G_gNodeB_ID</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>3170224</div></div></li>",
+    "innerText": "X_AIRTEL_5G_gNodeB_ID \\n 3170224"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_EARFCN</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>4294967295</div></div></li>",
+    "innerText": "X_AIRTEL_EARFCN \\n 4294967295"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_ESIM_EID</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>\"\"</div></div></li>",
+    "innerText": "X_AIRTEL_ESIM_EID \\n \"\""
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_ESIM_ICCID</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>\"\"</div></div></li>",
+    "innerText": "X_AIRTEL_ESIM_ICCID \\n \"\""
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_ESIM_IMSI</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>\"\"</div></div></li>",
+    "innerText": "X_AIRTEL_ESIM_IMSI \\n \"\""
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_ESIM_MSISDN</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>\"\"</div></div></li>",
+    "innerText": "X_AIRTEL_ESIM_MSISDN \\n \"\""
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_FWA_UL_BANDWIDTH_PORT1</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>1048568<button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-161utmn\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" aria-hidden=\"true\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M16.862 4.487l1.687-1.688a1.875 1.875 0 112.652 2.652L6.832 19.82a4.5 4.5 0 01-1.897 1.13l-2.685.8.8-2.685a4.5 4.5 0 011.13-1.897L16.863 4.487zm0 0L19.5 7.125\"></path></svg></svg></button></div></div></li>",
+    "innerText": "X_AIRTEL_FWA_UL_BANDWIDTH_PORT1 \\n 1048568"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_FWA_UL_BANDWIDTH_PORT2</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>1048568<button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-161utmn\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" aria-hidden=\"true\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M16.862 4.487l1.687-1.688a1.875 1.875 0 112.652 2.652L6.832 19.82a4.5 4.5 0 01-1.897 1.13l-2.685.8.8-2.685a4.5 4.5 0 011.13-1.897L16.863 4.487zm0 0L19.5 7.125\"></path></svg></svg></button></div></div></li>",
+    "innerText": "X_AIRTEL_FWA_UL_BANDWIDTH_PORT2 \\n 1048568"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_ModemSSREnable</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>true<button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-161utmn\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" aria-hidden=\"true\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M16.862 4.487l1.687-1.688a1.875 1.875 0 112.652 2.652L6.832 19.82a4.5 4.5 0 01-1.897 1.13l-2.685.8.8-2.685a4.5 4.5 0 011.13-1.897L16.863 4.487zm0 0L19.5 7.125\"></path></svg></svg></button></div></div></li>",
+    "innerText": "X_AIRTEL_ModemSSREnable \\n true"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_NRARFCN</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>634080</div></div></li>",
+    "innerText": "X_AIRTEL_NRARFCN \\n 634080"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_PIN_RemainRetryCount</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>10</div></div></li>",
+    "innerText": "X_AIRTEL_PIN_RemainRetryCount \\n 10"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_PORT1_AP_SN</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>\"\"</div></div></li>",
+    "innerText": "X_AIRTEL_PORT1_AP_SN \\n \"\""
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_PORT2_AP_SN</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>\"\"</div></div></li>",
+    "innerText": "X_AIRTEL_PORT2_AP_SN \\n \"\""
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_SINR</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>-32768</div></div></li>",
+    "innerText": "X_AIRTEL_SINR \\n -32768"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_SSB_RSRP</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>-94</div></div></li>",
+    "innerText": "X_AIRTEL_SSB_RSRP \\n -94"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_SSB_RSRQ</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>-11</div></div></li>",
+    "innerText": "X_AIRTEL_SSB_RSRQ \\n -11"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_SSB_RSSI</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>-85</div></div></li>",
+    "innerText": "X_AIRTEL_SSB_RSSI \\n -85"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_SSB_SINR</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>17</div></div></li>",
+    "innerText": "X_AIRTEL_SSB_SINR \\n 17"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_SSRCounter</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>0</div></div></li>",
+    "innerText": "X_AIRTEL_SSRCounter \\n 0"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">X_AIRTEL_SSRDumpEnabled</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><div>false<button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-161utmn\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" aria-hidden=\"true\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M16.862 4.487l1.687-1.688a1.875 1.875 0 112.652 2.652L6.832 19.82a4.5 4.5 0 01-1.897 1.13l-2.685.8.8-2.685a4.5 4.5 0 011.13-1.897L16.863 4.487zm0 0L19.5 7.125\"></path></svg></svg></button></div></div></li>",
+    "innerText": "X_AIRTEL_SSRDumpEnabled \\n false"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">Reboot()</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-q7mezt\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" aria-hidden=\"true\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M21 12a9 9 0 11-18 0 9 9 0 0118 0z\"></path><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M15.91 11.672a.375.375 0 010 .656l-5.603 3.113a.375.375 0 01-.557-.328V8.887c0-.286.307-.466.557-.327l5.603 3.112z\"></path></svg></svg></button></div></li>",
+    "innerText": "Reboot()"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-gc9f6w\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">FactoryReset()</span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-q7mezt\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" aria-hidden=\"true\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M21 12a9 9 0 11-18 0 9 9 0 0118 0z\"></path><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M15.91 11.672a.375.375 0 010 .656l-5.603 3.113a.375.375 0 01-.557-.328V8.887c0-.286.307-.466.557-.327l5.603 3.112z\"></path></svg></svg></button></div></li>",
+    "innerText": "FactoryReset()"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-vyptkv\"><div class=\"MuiListItemText-root MuiListItemText-dense css-14rdsw0\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\">Boot!</span></div></li>",
+    "innerText": "Boot!"
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-mialqa\"><div class=\"MuiListItemText-root MuiListItemText-dense css-s3uikj\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\"><b>Device.LocalAgent.</b></span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-q7mezt\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z\" clip-rule=\"evenodd\"></path></svg></svg></button></div></li>",
+    "innerText": "Device.LocalAgent."
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-mialqa\"><div class=\"MuiListItemText-root MuiListItemText-dense css-s3uikj\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\"><b>Device.Security.</b></span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-q7mezt\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z\" clip-rule=\"evenodd\"></path></svg></svg></button></div></li>",
+    "innerText": "Device.Security."
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-mialqa\"><div class=\"MuiListItemText-root MuiListItemText-dense css-s3uikj\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\"><b>Device.MQTT.</b></span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-q7mezt\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z\" clip-rule=\"evenodd\"></path></svg></svg></button></div></li>",
+    "innerText": "Device.MQTT."
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-mialqa\"><div class=\"MuiListItemText-root MuiListItemText-dense css-s3uikj\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\"><b>Device.DeviceInfo.</b></span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-q7mezt\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z\" clip-rule=\"evenodd\"></path></svg></svg></button></div></li>",
+    "innerText": "Device.DeviceInfo."
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-mialqa\"><div class=\"MuiListItemText-root MuiListItemText-dense css-s3uikj\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\"><b>Device.Time.</b></span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-q7mezt\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z\" clip-rule=\"evenodd\"></path></svg></svg></button></div></li>",
+    "innerText": "Device.Time."
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-mialqa\"><div class=\"MuiListItemText-root MuiListItemText-dense css-s3uikj\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\"><b>Device.Cellular.</b></span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-q7mezt\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z\" clip-rule=\"evenodd\"></path></svg></svg></button></div></li>",
+    "innerText": "Device.Cellular."
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-mialqa\"><div class=\"MuiListItemText-root MuiListItemText-dense css-s3uikj\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\"><b>Device.Ethernet.</b></span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-q7mezt\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z\" clip-rule=\"evenodd\"></path></svg></svg></button></div></li>",
+    "innerText": "Device.Ethernet."
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-mialqa\"><div class=\"MuiListItemText-root MuiListItemText-dense css-s3uikj\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\"><b>Device.IP.</b></span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-q7mezt\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z\" clip-rule=\"evenodd\"></path></svg></svg></button></div></li>",
+    "innerText": "Device.IP."
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-mialqa\"><div class=\"MuiListItemText-root MuiListItemText-dense css-s3uikj\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\"><b>Device.GRE.</b></span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-q7mezt\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z\" clip-rule=\"evenodd\"></path></svg></svg></button></div></li>",
+    "innerText": "Device.GRE."
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-mialqa\"><div class=\"MuiListItemText-root MuiListItemText-dense css-s3uikj\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\"><b>Device.Hosts.</b></span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-q7mezt\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z\" clip-rule=\"evenodd\"></path></svg></svg></button></div></li>",
+    "innerText": "Device.Hosts."
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-mialqa\"><div class=\"MuiListItemText-root MuiListItemText-dense css-s3uikj\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\"><b>Device.X_AIRTEL_LanAccessCfg.</b></span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-q7mezt\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z\" clip-rule=\"evenodd\"></path></svg></svg></button></div></li>",
+    "innerText": "Device.X_AIRTEL_LanAccessCfg."
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-mialqa\"><div class=\"MuiListItemText-root MuiListItemText-dense css-s3uikj\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\"><b>Device.WWC.</b></span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-q7mezt\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z\" clip-rule=\"evenodd\"></path></svg></svg></button></div></li>",
+    "innerText": "Device.WWC."
+  },
+  {
+    "html": "<li class=\"MuiListItem-root MuiListItem-dense MuiListItem-gutters MuiListItem-padding MuiListItem-divider css-mialqa\"><div class=\"MuiListItemText-root MuiListItemText-dense css-s3uikj\"><span class=\"MuiTypography-root MuiTypography-body2 MuiListItemText-primary css-wpplc\"><b>Device.X_AIRTEL_GREMonitor.</b></span></div><div class=\"MuiListItemSecondaryAction-root css-19bscgc\"><button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1o1slp7\" tabindex=\"0\" type=\"button\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-q7mezt\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M12.97 3.97a.75.75 0 011.06 0l7.5 7.5a.75.75 0 010 1.06l-7.5 7.5a.75.75 0 11-1.06-1.06l6.22-6.22H3a.75.75 0 010-1.5h16.19l-6.22-6.22a.75.75 0 010-1.06z\" clip-rule=\"evenodd\"></path></svg></svg></button></div></li>",
+    "innerText": "Device.X_AIRTEL_GREMonitor."
+  }
+]

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oktopus TR-369 Extractor</title>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <canvas id="bg-canvas"></canvas>
+    
+    <div class="container">
+        <header>
+            <h1>TR-369 <span>Extractor</span></h1>
+            <p>Automated TR-369 Device Payload Retriever</p>
+        </header>
+
+        <div class="glass-panel">
+            <div class="input-group">
+                <label>Username</label>
+                <input type="text" id="username" placeholder="Email or Username" autocomplete="off">
+            </div>
+            
+            <div class="input-group">
+                <label>Password</label>
+                <input type="password" id="password" placeholder="Password" autocomplete="off">
+            </div>
+            
+            <div class="checkbox-group">
+                <input type="checkbox" id="headless" checked>
+                <label for="headless">Run in Background (Headless)</label>
+            </div>
+
+            <div class="actions">
+                <button id="startBtn" class="primary-btn">Start Extraction</button>
+                <a href="/api/download" id="downloadBtn" class="secondary-btn" style="display: none;" download>Download JSON</a>
+            </div>
+        </div>
+
+        <div class="terminal-container">
+            <div class="terminal-header">
+                <div class="dots">
+                    <span class="dot red"></span>
+                    <span class="dot yellow"></span>
+                    <span class="dot green"></span>
+                </div>
+                <span>playwright-scraper.log</span>
+            </div>
+            <div class="terminal-body" id="terminal">
+                <div>Ready to extract...</div>
+            </div>
+        </div>
+    </div>
+
+    <script src="particles.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
