@@ -14,3 +14,6 @@ tools/
 
 # Keep Smali and Resources
 !JioHomeJFE_source/
+!Patched_APK/
+!Patched_APK/*.apk
+!Patched_APK/*.idsig
